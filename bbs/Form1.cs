@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace bbs
@@ -16,6 +9,8 @@ namespace bbs
         public Form1()
         {
             InitializeComponent();
+            b = new BBS(long.Parse(textBox1.Text), long.Parse(textBox2.Text), long.Parse(textBox3.Text));
+            textBox4.ScrollBars = ScrollBars.Vertical;
         }
         //set parametr
         private void button2_Click(object sender, EventArgs e)
