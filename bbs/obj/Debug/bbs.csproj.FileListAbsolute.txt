@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\bbs\bbs\bin\Debug\bbs.exe.config
+C:\Users\User\source\repos\bbs\bbs\bin\Debug\bbs.exe
+C:\Users\User\source\repos\bbs\bbs\bin\Debug\bbs.pdb
+C:\Users\User\source\repos\bbs\bbs\obj\Debug\bbs.csprojAssemblyReference.cache
+C:\Users\User\source\repos\bbs\bbs\obj\Debug\bbs.Form1.resources
+C:\Users\User\source\repos\bbs\bbs\obj\Debug\bbs.Properties.Resources.resources
+C:\Users\User\source\repos\bbs\bbs\obj\Debug\bbs.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bbs\bbs\obj\Debug\bbs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bbs\bbs\obj\Debug\bbs.exe
+C:\Users\User\source\repos\bbs\bbs\obj\Debug\bbs.pdb
